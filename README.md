@@ -1,0 +1,2 @@
+# reactNativeBoilerplateMinimalEjectedTyoescript
+Boilerplate ReactNative expo bare workflow typescript login and routes
